@@ -1,0 +1,1 @@
+{"root":["./src/App.test.tsx","./src/App.tsx","./src/api.ts","./src/main.tsx","./src/test-setup.ts","./src/components/CheckList.tsx","./src/components/ControlsPanel.tsx","./src/components/ExportCard.tsx","./src/components/Meter.tsx","./src/components/StatTile.tsx","./src/components/VerifyPanel.tsx","./src/components/WriterStatusBadge.tsx"],"version":"5.9.3"}
